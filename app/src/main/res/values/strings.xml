@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DailyMap</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- メニュー -->
+    <string name="action_searchMap">マップからさがす</string>
+    <string name="action_searchConditions">条件からさがす</string>
+
+    <!-- トップ -->
+    <string name="btn_topList">一覧</string>
+    <string name="btn_topMap">マップ</string>
+
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_shop_detail">ShopDetailActivity</string>
+    <string name="title_activity_search_conditions">SearchConditionsActivity</string>
+    <string name="title_activity_search_map">SearchMapActivity</string>
+    <string name="title_activity_search_shop_list">SearchShopListActivity</string>
+    <string name="title_activity_search_shop_detail">SearchShopDetailActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_top">TopActivity</string>
+    <string name="dateformat">reg_date</string>
+</resources>
